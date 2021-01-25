@@ -1,3 +1,9 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
 .tips span {
   height: 100px;
   display: flex;
@@ -43,4 +49,14 @@
 
 .relationship {
   background: rgba(251, 178, 178, 0.2);
+}
+
+.profile h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.offers h3 {
+  font-size: 18px;
+  font-weight: bold;
 }
