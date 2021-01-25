@@ -1,0 +1,22 @@
+.tips {
+    height: 200px;
+    width: 100%;
+    padding: 50px 0;
+    margin: 20px 0px;
+    text-align: right;
+    border-radius: 15px;
+}
+
+.breakup {
+    background: rgba(238, 214, 143, 0.2);
+        background-color: rgba(238, 214, 143, 0.2);
+    opacity: ;
+}
+
+.self-esteem {
+    background: rgba(178, 244, 251, 0.2);
+}
+
+.relationship {
+    background: rgba(251, 178, 178, 0.2);
+}
