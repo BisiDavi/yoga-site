@@ -1,22 +1,46 @@
+.tips span {
+  height: 100px;
+  display: flex;
+  width: 150px;
+  justify-content: flex-end;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+.tips span h1 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.tips span p {
+  font-size: 14px;
+}
+
 .tips {
-    height: 200px;
-    width: 100%;
-    padding: 50px 0;
-    margin: 20px 0px;
-    text-align: right;
-    border-radius: 15px;
+  height: 200px;
+  width: 100%;
+  padding: 50px 0;
+  padding-right: 0px;
+  margin: 20px 0px;
+  text-align: right;
+  border-radius: 15px;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 20px;
+  align-items: center;
 }
 
 .breakup {
-    background: rgba(238, 214, 143, 0.2);
-        background-color: rgba(238, 214, 143, 0.2);
-    opacity: ;
+  background: rgba(238, 214, 143, 0.2);
+  background-color: rgba(238, 214, 143, 0.2);
+  opacity: ;
 }
 
 .self-esteem {
-    background: rgba(178, 244, 251, 0.2);
+  background: rgba(178, 244, 251, 0.2);
 }
 
 .relationship {
-    background: rgba(251, 178, 178, 0.2);
+  background: rgba(251, 178, 178, 0.2);
 }
